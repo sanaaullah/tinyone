@@ -1,0 +1,260 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*Header start*/
+	.menu ul li:nth-child(2){
+	margin: 0;
+	}
+	/*Header end*/
+	/*Slider start*/
+	.cust-carousel{
+		padding-bottom: 50px;
+	}
+	.cust-carousel ol{
+	margin-bottom: 20px;
+	}
+		.cust-carousel ol li{
+	width: 12px;
+	height: 12px;
+}
+	.left-content{
+		margin-top: 10px;
+	}
+	.left-content h1{
+	margin: 0;
+	font-size: 26px;
+	font-weight: 700;
+	}
+	.left-content h2{
+		margin: 10px 0 15px;
+		font-size: 18px;
+	}
+	.left-content ul{
+		margin-top: 20px;
+	}
+	.left-content ul li{
+	margin-right: 25px !important;
+	}
+	.left-content ul li i{
+	font-size: 25px;
+}
+	/*Slider end*/
+		/*features start*/
+	/*features-header*/
+	.features{
+		padding: 15px 0 25px;
+	}
+	.features-header{
+		padding: 0px;	
+	}
+	/*features-item*/
+	.single-feature{
+		margin-top: 15px;
+	}
+	.item-content{
+		padding: 0px;
+	}
+	/*features end*/
+	/*====Email submission start====*/
+	.email-submission{
+		padding-top: 15px;
+	}
+	.email-header{
+		padding: 0px;
+	}
+	.email-header h1{
+		font-size: 20px;
+	}
+	/*Form Section*/
+	 .cust-form{
+		margin:15px 0 15px;
+	 }
+	 .cust-input{
+		margin-right: 0px;
+		margin-bottom: 16px;
+		width: 350px !important;
+	}
+	.cust-btn{
+		width: 350px;
+	}
+	/*Social-media icon*/
+	.social-media{
+		margin-bottom: 0 !important;
+	}
+	.social-media li{
+		padding: 5px;
+		margin-right: 10px !important;
+		width: 25px;
+		height: 25px;
+	}
+	.social-media li a i{
+		font-size: 16px;
+	}
+	/*====Email submission end====*/
+	/*====Footer Section start=====*/
+	footer{
+		padding: 15px 0 10px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*Header start*/
+	.menu ul li a{
+		float: right;
+	}
+	.menu ul li:nth-child(2){
+	margin: 0;
+	}
+	/*Header end*/
+	/*Slider start*/
+	.cust-carousel{
+		padding-bottom: 50px;
+	}
+	.cust-carousel ol{
+	margin-bottom: 20px;
+	}
+	.cust-carousel ol li{
+	width: 12px;
+	height: 12px;
+	}
+	.left-content{
+		margin-top: 10px;
+	}
+	.left-content h1{
+	margin: 0;
+	font-size: 26px;
+	font-weight: 700;
+	}
+	.left-content h2{
+		margin: 10px 0 15px;
+		font-size: 18px;
+	}
+	.left-content ul{
+		margin-top: 20px;
+	}
+	.left-content ul li{
+	margin-right: 25px !important;
+	}
+		.left-content ul li i{
+	font-size: 32px;
+	}
+	/*Slider end*/
+	/*features start*/
+	/*features-header*/
+	.features{
+		padding: 15px 0 25px;
+	}
+	.features-header{
+		padding: 0 60px;	
+	}
+	/*features-item*/
+	.single-feature{
+		margin-top: 15px;
+	}
+	.item-content{
+		padding: 0 40px;
+	}
+	/*features end*/
+	/*====Email submission start====*/
+	.email-submission{
+		padding-top: 25px;
+	}
+	.email-header{
+		padding: 0 80px;
+	}
+	.email-header h1{
+		font-size: 24px;
+	}
+	/*Form Section*/
+	 .cust-form{
+		margin:30px 0 35px;
+	 }
+	 .cust-input{
+		margin-right: 0px;
+		margin-bottom: 16px;
+		width: 350px !important;
+	}
+	.cust-btn{
+		width: 350px;
+	}
+	/*Social-media icon*/
+	.social-media{
+		margin-bottom: 0 !important;
+	}
+	.social-media li{
+		padding: 5px;
+		margin-right: 10px !important;
+		width: 25px;
+		height: 25px;
+	}
+	.social-media li a i{
+		font-size: 16px;
+	}
+	/*====Email submission end====*/
+	/*====Footer Section start=====*/
+	footer{
+		padding: 20px 0 10px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*Header start*/
+	.menu ul li a{
+		float: right;
+	}
+	.menu ul li:nth-child(2){
+	margin: 0;
+	}
+
+/*Header end*/
+/*Slider start*/
+.left-content{
+	margin-top: 25px;
+}
+.left-content h2{
+	margin: 10px 0 15px;
+}
+.left-content ul{
+	margin-top: 20px;
+}
+/*Slider end*/
+/*features start*/
+/*features-header*/
+.features{
+	padding: 25px 0 40px;
+}
+.features-header{
+	padding: 0 80px;	
+}
+/*features-item*/
+.single-feature{
+	margin-top: 20px;
+}
+/*features end*/
+/*====Email submission start====*/
+.email-submission{
+	padding-top: 25px;
+}
+.email-header{
+	padding: 0 80px;
+}
+/*Form Section*/
+ .cust-form{
+	margin:30px 0 35px;
+ }
+/*====Email submission end====*/
+/*====Footer Section start=====*/
+footer{
+	padding: 30px 0;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
